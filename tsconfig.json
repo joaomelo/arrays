@@ -8,7 +8,4 @@
       "path": "./tsconfig.configs.json"
     }
   ],
-  "exclude": [
-    "readme.js"
-  ]  
 }
